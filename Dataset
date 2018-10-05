@@ -1,6 +1,9 @@
 Audioset on Youtube:
 https://research.google.com/audioset/dataset/index.html
 
+Downloader:
+https://github.com/marl/audiosetdl
+
 Getting Started with Audio Data Analysis using Deep Learning (with case study)
 https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
 
@@ -24,3 +27,6 @@ https://rg3.github.io/youtube-dl/
 
 tensorflow:
 https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
+
+Urban Sound Classification
+https://github.com/aqibsaeed/Urban-Sound-Classification
